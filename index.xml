@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meine neue Webseite</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Meine neue Webseite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2019 12:22:05 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mein erster Post</title>
+      <link>http://example.org/post/2018/02/01_erster_post/</link>
+      <pubDate>Fri, 21 Jun 2019 12:22:05 +0200</pubDate>
+      
+      <guid>http://example.org/post/2018/02/01_erster_post/</guid>
+      <description>Hier kommt mein Text, noch etwas Text. Noch mehr Text  Alles gut
+ code noch mehr code  fett noch mehr fett kursiv kursiv
+ Punkt 1 Punkt 2  Link zu meinem Artikel</description>
+    </item>
+    
+  </channel>
+</rss>
